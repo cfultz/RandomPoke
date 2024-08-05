@@ -1,7 +1,6 @@
 # Import required methods
 import random
 import os
-import sys
 from requests import get
 from json import loads
 from shutil import copyfileobj
