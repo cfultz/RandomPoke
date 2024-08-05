@@ -1,5 +1,5 @@
 # Random Poké
-This Mastodon bot posts random Pokémon cards from the Pokémon TCG universe. 
+This Mastodon bot posts random Pokémon cards from the Pokémon TCG universe. See it in action at [@RandomPoke](https://cfultz.com/@randompoke)!
 
 # Requirements
 - Mastodon.py
